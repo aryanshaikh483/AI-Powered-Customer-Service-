@@ -1,6 +1,6 @@
 # Banking chatbot (Rasa framework-based)
 
-![Architecture](architecture.jpg)
+![Architecture](Architecture.png)
 
 
 ## Features
