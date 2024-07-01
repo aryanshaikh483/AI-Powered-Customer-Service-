@@ -1,6 +1,6 @@
 # Banking chatbot (Rasa framework-based)
 
- <img src="http://www.netalogue.com/wp-content/uploads/2017/03/chatbot.png" width="500" height="300">
+ <img src="https://www.netalogue.com/wp-content/uploads/2017/03/chatbot.png" width="500" height="300">
 
 ## Features
 - Intent analysis and the ability to extract and save all the entities during the conversation with a user
