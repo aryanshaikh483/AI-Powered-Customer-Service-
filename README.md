@@ -12,7 +12,7 @@
 ## 1. Download the repository and install everything from requirements.txt (pip install -r requirements.txt)
 *For RASA NLU:
 
-      git clone https://github.com/RasaHQ/rasa_nlu.git
+     
       cd rasa_nlu
       pip install -r requirements.txt
       pip install -e .
