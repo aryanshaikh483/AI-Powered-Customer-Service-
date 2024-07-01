@@ -1,5 +1,8 @@
 # Banking chatbot (Rasa framework-based)
 
+## Abstract
+- This project aims to enhance the customer service experience by leveraging generative AI technologies to provide personalized, efficient, and proactive support across multiple channels. The proposed AI-powered customer service platform addresses three primary challenges: automating customer inquiries to provide accurate real-time responses, offering personalized recommendations based on customer data and interaction history, and seamlessly integrating with existing customer service platforms while maintaining a high level of security and data privacy.
+
 ![Architecture](Architecture.png)
 
 
